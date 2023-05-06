@@ -1,5 +1,5 @@
 # CursorLootIcons
-This download will swaps the cursor loot icons for the loot and loot all options.    
+This download will swap the cursor loot icons for the loot and loot all options.    
 This is useful when using the [vanilla-tweaks](https://github.com/brndd/vanilla-tweaks) Quickloot reverse patch (hold shift to manual loot).
 
 ## Installation
